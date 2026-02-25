@@ -7,7 +7,7 @@
   'use strict';
 
   const FRAME_COUNT = 80;
-  const FRAME_PATH = 'assets/hero-sequence/Create_a_cinematic_1080p_202602222345_';
+  const FRAME_PATH = 'Create_a_cinematic_1080p_202602222345_';
   const FRAME_EXT = '.jpg';
 
   const canvas = document.getElementById('hero-sequence-canvas');
